@@ -1,0 +1,5 @@
+#include "Helpers.h"
+#include "Testcases_GCD.h"
+#include "Testcases_isPrime.h"
+#include "Testcases_isPrimeFermat.h"
+#include "Testcases_isPrimeSolovay.h"
